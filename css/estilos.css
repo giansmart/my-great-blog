@@ -14,7 +14,7 @@ body{
 }
 
 #cabecera{
-    background-color: darkblue;
+    background-color: rgb(10, 10, 15);
     box-shadow: 0px 2px 20px 0px rgba(27, 12, 41, .5);
     color: white;
     font-weight: bold;
@@ -26,4 +26,9 @@ body{
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+}
+
+#cabecera #logo{
+    width: 40px;
+    vertical-align: middle;
 }
