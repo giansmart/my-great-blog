@@ -27,3 +27,13 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
+
+#post{
+    padding: 1em;
+}
+
+footer{
+    background-color: #777;
+    color: white;
+    padding: 0.5em;
+}
